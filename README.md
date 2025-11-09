@@ -7,3 +7,5 @@ Le dossier *documents_de_travail* contient l'état de l'art des systèmes d'indi
 Le dossier *notebook* contient le fichier .ipynb, qui est un notebook python contenant les méthodes de calcul des indicateurs.
 
 Plus de détails sont visibles dans le mémoire réalisé vers la fin du projet.
+
+Le notebook actuel est laissé "tel quel" depuis la fin du TER, mais je prévois d'y apporter quelques corrections !
